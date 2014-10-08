@@ -56,8 +56,8 @@ def make_text(chains):
     # for word in markov_sent:
 
 
-    # str = " "
-    # return str.join(markov_sent)
+    str = " "
+    return str.join(markov_sent)
 
 def main():
     args = sys.argv
