@@ -25,12 +25,12 @@ def make_chains(corpus):
         value_list = ["."]
         chain_dict[key_tuple] = chain_dict.get(key_tuple, []) + value_list
 
-    # print chain_dict
-
     return chain_dict
 
 def massage_corpus(corpus):
     """Takes corpus, returns list of sentences"""
+
+    #probably be cleaned up with maketrans and translate
 
     corpus = corpus.replace("\n", " ").replace("!", ".").replace("?", ".").replace('\'', "").replace("(", "").replace(")", "")
     return  corpus.split(".")
@@ -42,12 +42,11 @@ def make_text(chains):
     key_list = chains.keys()
     random_tuple = random.choice(key_list)
     markov_sent = [random_tuple[0], random_tuple[1]]
-    next_key = random_tuple
     while random_value != ".":
-        tuple_values = chains[next_key]
+        tuple_values = chains[random_tuple]
         random_value = random.choice(tuple_values)
         markov_sent.append(random_value)
-        next_key = (next_key[1], random_value)
+        random_tuple = (random_tuple[1], random_value)
 
     # print markov_sent
 
@@ -55,21 +54,22 @@ def make_text(chains):
     #markov_sent is a list! We're going to concatinate the strings in this list. 
     # for word in markov_sent:
 
-
     str = " "
-    return str.join(markov_sent)
+    markov_string = str.join(markov_sent)
+    return markov_string
 
 def main():
     args = sys.argv
 
-    file_object = open('sample.txt')
+    program, file_name = args
+    file_object = open(file_name)
     file_string = file_object.read()
 
     input_text = "sample.txt"
 
     chain_dict = make_chains(file_string)
     random_text = make_text(chain_dict)
-    #print random_text
+    print random_text
 
 
 if __name__ == "__main__":
