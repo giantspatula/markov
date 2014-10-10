@@ -2960,7 +2960,7 @@ Cloud: Barret, take care of her!
  
 
 Cloud: "What's your name?" 
-Red: "Hojo has named me, Red XIII. A name with no meaning whatsoever 
+Red: "Hojo has named me, RedXIII. A name with no meaning whatsoever 
 to me. Call me whatever you wish." 
  
 Cloud: "Come on!" 
@@ -2968,14 +2968,14 @@ Cloud: "Come on!"
  
 Cloud: "Aerith, you all right?" 
 Tifa: "She seems all right, …in many ways." 
-Red XIII: "I have a right to choose, too. I don't like two-legged things." 
+RedXIII: "I have a right to choose, too. I don't like two-legged things." 
 Barret: "What are you?" 
-Red XIII: "An informed question. But difficult to answer. I am what you 
+RedXIII: "An informed question. But difficult to answer. I am what you 
 see." "…You must have many questions, but first, let's get out of 
 here. I'll lead the way." 
 Aerith: "Cloud… so you did come for me." 
  
-Red XIII: "I apologize for what happened back there. I was merely acting to 
+RedXIII: "I apologize for what happened back there. I was merely acting to 
 throw Hojo off guard……" 
 Barret: "Now we've saved Aerith, ain't no need to be in this buildin'! So 
 let's get the hell outta here!" 
@@ -3002,7 +3002,7 @@ Cloud: "Ggh…"
 
   
 Captured Meet The President -
-(Rude and Tseng lead Cloud, Barret, Tifa, and Red XIII into the 
+(Rude and Tseng lead Cloud, Barret, Tifa, and RedXIII into the 
 President's office. Their hands and feet are bound.) 
 Cloud: "You all got caught, too?" 
  
@@ -3011,10 +3011,10 @@ President Shinra: "In a safe place."
  
 President Shinra: "She's the last surviving Ancient…" "Don't you know? They called themselves the Cetra, and lived 
 thousands of years ago. Now they are just a forgotten page in history." 
-Red XIII: "Cetra… That girl, is she a survivor of the Cetra?" 
+RedXIII: "Cetra… That girl, is she a survivor of the Cetra?" 
 President Shinra: "Cetra, or the Ancients will show us the way to the 'Promised 
 Land.' I'm expecting a lot out of her." 
-Red XIII: "The Promised Land? Isn't that just a legend?" 
+RedXIII: "The Promised Land? Isn't that just a legend?" 
 President Shinra: "Even so, it's just too appealing to not to pursue." "It's been said the Promised Land is very fertile." "…If the land is fertile…" 
 Barret: "Then there's gotta be Mako!" 
 President Shinra: "Exactly. That is why our money sucking Mako Reactor is a 
@@ -3033,7 +3033,7 @@ President Shinra: "If you need something else… talk to my secretary."
   
 A Night In Jail-
 (Cloud and the others wake up in the prison cells on the 67th floor. 
-Aerith is in her own cell on the left, Barret and Red XIII share the right 
+Aerith is in her own cell on the left, Barret and RedXIII share the right 
 cell, and Tifa is in the cot in Cloud's center cell.) 
 Tifa: "Psst " 
  
@@ -3043,7 +3043,7 @@ Cloud:
 Tifa: "Psst " 
 
  
-I wonder how Barret is doing: I wonder how Red XIII is doing: I wonder how Aerith is doing 
+I wonder how Barret is doing: I wonder how RedXIII is doing: I wonder how Aerith is doing 
 Cloud: I wonder how Barret is doing 
  
 Barret: "Hey!" "Aerith is an Ancient and the real name of the Ancients is 
@@ -3058,11 +3058,11 @@ Barret: "I can't just leave 'em be. I'm recruitin' new members!!" "Me, Tifa, Clo
 Barret: "How 'bout you?" 
  
 Barret: "You're so damn boring." 
-Cloud: I wonder how Red XIII is doing 
-Red XIII: "…………Grandpa." 
+Cloud: I wonder how RedXIII is doing 
+RedXIII: "…………Grandpa." 
 Barret: "Grandpa!? Ha, ha, ha…… Grandpa, hmm…. ha, ha, ha……." 
  
-Red XIII: "What's so funny?" 
+RedXIII: "What's so funny?" 
 Barret: "Nothin'…… ha, ha" 
 Cloud: I wonder how Aerith is doing 
  
@@ -3130,27 +3130,27 @@ Cloud: "He should have the key on him…"
  
 Cloud: "Come on, Tifa, get Aerith, I'll go help Barret and the others." 
  
-Cloud: "Barret, Red XIII… come with me. Something's wrong." 
+Cloud: "Barret, RedXIII… come with me. Something's wrong." 
  
 Barret: "How'd you get in? Why's the door open!?" 
  
 Barret: "The hell's goin' on!?" 
-Red XIII: "No human could've done this." "I'll go on ahead." 
+RedXIII: "No human could've done this." "I'll go on ahead." 
  
 Barret: "I'll clean up back here, so you guys go ahead. And don't get 
 caught by Shinra!" 
  
-Tifa: "Come on, let's follow Red XIII!" 
-(They follow Red XIII to the lab where he was previously imprisoned. The 
+Tifa: "Come on, let's follow RedXIII!" 
+(They follow RedXIII to the lab where he was previously imprisoned. The 
 path there is stained with blood and littered with bodies. Where there 
 was a door in the metal dome, there is now a gaping hole.) 
 Cloud: "…Did it get away? Jenova…?" 
-Red XIII: "Jenova Specimen… Looks like it went to the upper floor using 
+RedXIII: "Jenova Specimen… Looks like it went to the upper floor using 
 that elevator for the specimens." 
  
-Red XIII: "It looks like it leads up…" 
+RedXIII: "It looks like it leads up…" 
 (They take the elevator up to the 69th floor., then the stairs up to the 
-70th. Barret and Red XIII catch up with the rest. They arrive at President 
+70th. Barret and RedXIII catch up with the rest. They arrive at President 
 Shinra's office. He is seated at his desk. A large sword is protruding
 from his back.) 
 Barret: "He's dead… The leader of Shinra, Inc. is dead." 
@@ -3188,7 +3188,7 @@ Aerith: "I've heard that no one's ever seen
 him bleed or cry." 
 Barret: "I heard that he's been assigned somewhere else for a long 
 time…" 
-Red XIII: "I only know his name." 
+RedXIII: "I only know his name." 
 (Cloud runs out onto the balcony at the top of the Shinra Building. The 
 rest follow. They find Rufus and Palmer there.) 
 Rufus: "So… So Sephiroth was actually here. …By the way." 
@@ -3199,7 +3199,7 @@ Cloud: "I'm Cloud, former SOLDIER First Class!"
 Barret: "I'm from AVALANCHE!" 
 Tifa: "Same here!" 
 Aerith: "…a flower girl from the slums." 
-Red XIII: "A research specimen." 
+RedXIII: "A research specimen." 
  
 Rufus: "What a crew." 
  
@@ -3237,7 +3237,7 @@ Tifa: "…I'll wait for Cloud! Everyone, get to the elevator!"
  
 Aerith: "Hmm, it's going to get pretty ugly from here on. We should 
 check on our equipment." 
-(Aerith, Barret, and Red XIII re-equip themselves and get on the elevator. 
+(Aerith, Barret, and RedXIII re-equip themselves and get on the elevator. 
 As soon as they press the button to go down, they are attacked.) 
  
 
@@ -3269,7 +3269,7 @@ Cloud: "I couldn't finish 'em. Looks like this's gonna get complicated."
 
   
 A Spectacular Escape Highway Battle -
-(Aerith, Barret, and Red XIII arrive on the bottom floor. They go to the 
+(Aerith, Barret, and RedXIII arrive on the bottom floor. They go to the 
 main exit.) 
 Barret: "I'll go on ahead!" 
  
@@ -3284,11 +3284,11 @@ Barret: "Ok, playtime's over for you jackasses…"
 Aerith: "…thank you, Mr. Barret!" 
  
 Barret: "Who you callin' Mr. Barret? That don't sound right!" 
-Red XIII: "Well then…" "If you are through talking, may I suggest that we think of a way 
+RedXIII: "Well then…" "If you are through talking, may I suggest that we think of a way 
 to get out of here." 
 Barret: "Huh? Oh, oh yeah… You a cold man. Just like somone else 'round 
 here I know." 
-Red XIII: "Did you say something?" 
+RedXIII: "Did you say something?" 
 Barret: "Notta thing. So what're we gonna do?" 
 Tifa: "Barret!" 
  
@@ -3326,7 +3326,7 @@ Aerith: "…….Many things."
 Tifa: "I guess this's good bye, Midgar." 
 (They all climb down a rope hung from the edge of the highway, landing in 
 the outskirts of Midgar.) 
-Red XIII: "I'm going backto my hometown. I'll go with you as far as that." 
+RedXIII: "I'm going backto my hometown. I'll go with you as far as that." 
 Tifa: "…I guess this is the start of our journey…" 
 You hate traveling? It's dangerous. You sure you want to go? 
 Cloud: You hate traveling? 
@@ -3882,7 +3882,7 @@ monsters.
 Barret: "Damn, Shinra! the more I hear, the more I hate 'em!" 
 Tifa: "……who would have ever thought the Mako Reactor held a secret 
 like that." 
-Red XIII: "That would seem to explain the increase in the number of 
+RedXIII: "That would seem to explain the increase in the number of 
 monsters recently." "I think we should listen carefully to Cloud. Don't you think so 
 Barret?" 
 Barret: "" 
@@ -4141,9 +4141,9 @@ Tifa: "………."
 Aerith: "I…" "The Ancients….. Cetra…. Jenova…… Sephiroth and 
 myself….." 
 Tifa: "Let's go. Barret's waiting." 
-(Everyone leaves except Red XIII, still seated by the window, tail 
+(Everyone leaves except RedXIII, still seated by the window, tail 
 twitching curiously.) 
-Red XIII: "What a fascinating story….." 
+RedXIII: "What a fascinating story….." 
    
 The Village Of Kalm 
 (Cloud comes downstairs into the lobby of the inn in Kalm. Barret and Red 
@@ -4152,7 +4152,7 @@ Barret: "Yo, Cloud. Here."
  
  Access the menu and select [PHS]. It can 
 only be used on the World Map or at a Save Point. 
-Red XIII: "[PHS], will put us in constant contact with each other." 
+RedXIII: "[PHS], will put us in constant contact with each other." 
 Barret: "Awright then, we're outta here..". 
 People in Kalm 
 "Listen to me! Just now, some guy in a black cloak goes walked east towards 
@@ -4502,7 +4502,7 @@ Aerith: "I heard that girl regained consciousness."
 Tifa: "Doesn't it seem a little strange? Everything getting so noisy 
 all of a sudden…?" 
 Barret: "Seems like something's goin' on up there!" 
-Red XIII: "Does this have something to do with the Shinra?" 
+RedXIII: "Does this have something to do with the Shinra?" 
 (Cloud goes partway up the stairs to Priscilla's house, when Priscilla 
 comes out to the top of the stairs.) 
 Cloud: "Are you all right now?" 
@@ -4522,7 +4522,7 @@ shining here, and the water got polluted…" "I was raised on that story amd hat
 Aerith: "You think Rufus is thinking about crossing the ocean from here, 
 too?" 
 "What? Does that mean Sephiroth already crossed the ocean?" 
-Red XIII: "Cloud, didn't you finish Rufus off?" 
+RedXIII: "Cloud, didn't you finish Rufus off?" 
 Barret: "We gotta get to the town up there… Mebbe we could climb the 
 tower?" 
 Priscilla: "No! No! There's a high voltage current running underneath the 
@@ -4530,13 +4530,13 @@ tower. Don't wander near it, it's dangerous!" "But… you might be able to if Mr
  
 Tifa: "High voltage tower……." "I guess this means Cloud'll be allright." 
 Aerith: "Yeah, better leave it to Cloud!" 
-Red XIII: "We're counting on you, Cloud" 
+RedXIII: "We're counting on you, Cloud" 
  
 Cloud: "Hey!!" 
  
 Cloud: "Wait a second!" 
  
-Red XIII: "That looks like a Shinra soldier." 
+RedXIII: "That looks like a Shinra soldier." 
 Barret: "Yeah, I'd like to take a good look at the new President of 
 Shinra, Inc.!" 
 Tifa: "Don't you just hate this?" 
@@ -4791,8 +4791,8 @@ Cloud: Leave me alone
 
 "Oh man, we're almost to Costa del Sol." "When I get there, I'm going to take a long overdue vacation. 
 Maybe I'll go down to the beach and get a tan…" 
-A soldier: "……. …It's me. Red XIII." 
-Red XIII: "I'm a little woozy, but I shouldn't get caught." "Humans only look at appearances anyway." "Anyway you look at it, I'd say I make a fine human being." "It's pretty hard standing on two feet…" 
+A soldier: "……. …It's me. RedXIII." 
+RedXIII: "I'm a little woozy, but I shouldn't get caught." "Humans only look at appearances anyway." "Anyway you look at it, I'd say I make a fine human being." "It's pretty hard standing on two feet…" 
  
 Aerith: "Hey, Cloud, did you see Barret?" "I hope he's not doing anything stupid…"
 (Cloud goes back up to the deck, where he finds Barret, dressed like 
@@ -4818,7 +4818,7 @@ Barret: "Hey, wait." "You don't think that suspicious character is…."
 Tifa: "Really!?" 
 Barret: "How the hell am I supposed to know!?" 
 Cloud: "….Let's find out." 
-Red XIII: "It's the most logical thing to do. Then, who's going to go?" 
+RedXIII: "It's the most logical thing to do. Then, who's going to go?" 
 (The PLAYER chooses a party here once again, I took Aerith and Tifa. 
 Everyone is now in their normal clothes.) 
 Cloud: "…..Sephiroth……." "……..All right, let's go!" 
@@ -4898,10 +4898,10 @@ Cloud: "Remember, this isn't a vacation. We're here after Sephiroth." "I'm going
 Barret: "Hmmmph, Cloud. You're the one, who's always hangin' around 
 wastin' time." "I'm going to skip this resort!" 
 
-Red XIII: "…puff…puff…" "Would you kindly hurry? The heat here is drying my nose." 
+RedXIII: "…puff…puff…" "Would you kindly hurry? The heat here is drying my nose." 
 Cloud: "All right. We'll take a break here and then head off." "Don't wander too far off." 
 Barret: "I'll wander wherever I damn well want! Who made him the leader?" 
-Red XIII: "It looks like my mane got messed up." "I'm going to rest somewhere cool." 
+RedXIII: "It looks like my mane got messed up." "I'm going to rest somewhere cool." 
   
 
 (A helicopter hovers over the dock. It lands on an elevated pad near the 
@@ -4993,7 +4993,7 @@ approach."
 "I guess so. Well, I envy the plain Janes." 
 "Why don't we compromise? We'll make do with what we have." 
 "I heard. That big dog talks like a human." "That's cool… but it's weird." 
-Red XIII: "Hm, that's interesting." "It's not as if I'm doing this because I want to." "You see, this tail of mine, moves quite independently of my 
+RedXIII: "Hm, that's interesting." "It's not as if I'm doing this because I want to." "You see, this tail of mine, moves quite independently of my 
 will." 
 "1, 2, 3, here we go!" 
 Butch: "Yeah, I'd like to hire a gorgeous chick and have a great time." 
@@ -5125,7 +5125,7 @@ Tifa: "Let's hurry on."
 (They continue on, past the mountain pass, passing a Mako reactor and 
 crossing many mine-car tracks, until they reach a bridge. The other two 
 are there.) 
-Red XIII: "Wha? Oh, it's you." "There seems to be an instrument in that hut that manipulates 
+RedXIII: "Wha? Oh, it's you." "There seems to be an instrument in that hut that manipulates 
 this bridge." "Perhaps it's best if we rest a moment." 
  
 "The shack is here!! ;" 
@@ -5228,7 +5228,7 @@ Aerith: "Barret, what happened?"
 Barret: "Sorry." 
 Cloud: "What happened?" 
 Barret: "My hometown used to be around here." 
-Red XIII: "What do you mean, 'used to'?"
+RedXIII: "What do you mean, 'used to'?"
 Barret: "It ain't here no more. Heard it got buried… in just 4 years." 
 Aerith: "But how could those people say those terrible things?" 
 Barret: "An' it's my fault. ALL my fault." 
@@ -5670,7 +5670,7 @@ get involved…' blah, blah, blah…"
 Tifa: "Yeah. We're already involved in this." "We saw you and hurried here. So come on Barret, just tell us 
 what's going on." 
 Barret: "You guys…" 
-Red XIII: "I heard that the murders at the Battle Arena were done by a man 
+RedXIII: "I heard that the murders at the Battle Arena were done by a man 
 with a gun-arm. …Was that you?" 
  
 Barret: "There's another…. another man that got a gun grafted inta one 
@@ -6163,15 +6163,15 @@ the town, the buggy begins to spark.)
 "!?" 
  
 Cloud: "Oh man… a breakdown? Now?" 
-(They enter the town of Cosmo Canyon. At the entrance, Red XIII comes 
+(They enter the town of Cosmo Canyon. At the entrance, RedXIII comes 
 bounding up and speaks with the gateman.) 
-Red XIII: "I am home! It is I, Nanaki!" 
+RedXIII: "I am home! It is I, Nanaki!" 
 "Hey, Nanaki! You're safe!" "Come on, and say hello to Bugenhagen!"
  
 Cloud: "…Nanaki?" 
 Aerith: "Cosmo… Canyon? I wonder if there's any relation to the planet 
 or the Ancients…" 
-Tifa: "Red XIII seems different, doesn't he?" 
+Tifa: "RedXIII seems different, doesn't he?" 
 
 "Welcome to Cosmo Canyon. Are you familiar with this land?"
 Yes: No 
@@ -6183,7 +6183,7 @@ Planet Life."
 "Ummgah! It's full capacity at present, so I'm afraid I can't 
 let you enter." 
  
-Red XIII: "They helped me some when I was on the road. Please let them in." 
+RedXIII: "They helped me some when I was on the road. Please let them in." 
  
 "…Oh, is that so? You helped our Nanaki? Please, come in." 
 Cloud: "Who is Nanaki?" 
@@ -6223,14 +6223,14 @@ Cloud: No, what's your problem?
 sleep…." 
 
  
-Red XIII: "Here is where I was…. I mean, …this is my hometown." "My tribe were protectors of those who appreciate this beautiful 
+RedXIII: "Here is where I was…. I mean, …this is my hometown." "My tribe were protectors of those who appreciate this beautiful 
 canyon and the Planet." "My brave mother fought and died here, but my cowardly father 
 left her……. I am the last of my race." 
 Cloud: "Cowardly father?" 
-Red XIII: "Yes. My father was a wastrel." "And so the mission I inherited from my ancestors, is to protect 
+RedXIII: "Yes. My father was a wastrel." "And so the mission I inherited from my ancestors, is to protect 
 this place. My journey ends here." 
 "Hey! Nanaki--! You're home!" 
-Red XIII: "Coming, Grandpa!" 
+RedXIII: "Coming, Grandpa!" 
  
 Tifa: "That's perfect. Why don't we take a break too? We can meet back 
 here in a while, OK?" 
@@ -6238,16 +6238,16 @@ here in a while, OK?"
    
 Bugenhagen's Observatory 
 (Cloud travels to the very top of Cosmo Canyon. He enters the shack there. 
-Red XIII and Bugenhagen are waiting.) 
-Red XIII: "Cloud, this is my grandfather, Bugen." "He is incredible. He knows everything." 
+RedXIII and Bugenhagen are waiting.) 
+RedXIII: "Cloud, this is my grandfather, Bugen." "He is incredible. He knows everything." 
 Bugenhagen: "Ho Ho Hoooo. I hear that you looked after Nanaki a bit." "Nanaki is still a child you see." 
-Red XIII: "Please stop, grandfather. I'm 48." 
+RedXIII: "Please stop, grandfather. I'm 48." 
 Bugenhagen: "Ho Ho Hoooo. Nanaki's tribe has incredible longevity." "So you see his 48 years would only be equivalent to say that of 
 a 15 or 16 year old in human reckoning." 
 Cloud: "15 or 16!?" 
 Bugenhagen: "He's quiet and very deep. You thought he was an adult?" 
  
-Red XIII: "…….grandfather. I want to be an adult." "I want to grow up to be able to protect you and the village." 
+RedXIII: "…….grandfather. I want to be an adult." "I want to grow up to be able to protect you and the village." 
 Bugenhagen: "Ho Ho Hoooo. No Nanaki. You can't stand on your own yet." 
  
 Bugenhagen: "To do that now would destroy you in the long run." 
@@ -6279,7 +6279,7 @@ Cloud: "What was that?"
  
 Bugenhagen: "Ho Ho Hoooo. That was a scream from this planet." "Didn't you hear it? As if to say… I hurt, I suffer….." 
  
-Red XIII: "They have come here on a journey to save the planet." "Why don't you show them your apparatus?" 
+RedXIII: "They have come here on a journey to save the planet." "Why don't you show them your apparatus?" 
  
 Bugenhagen: "Ho Ho Hoooo. To save the planet? Ho Ho Hoooo!" 
  
@@ -6288,9 +6288,9 @@ Bugenhagen: "But, then again, I guess it wouldn't hurt to show him."
  
 "Several odd looking people have come." 
 Bugenhagen: "The whole place has gotten busy all of a sudden." 
-Red XIII: "He brought friends too. I'll go get them." 
+RedXIII: "He brought friends too. I'll go get them." 
  
-Red XIII: "Cloud, please call one of them." "Only three people can fit in grandfather's machine." 
+RedXIII: "Cloud, please call one of them." "Only three people can fit in grandfather's machine." 
 Bugenhagen: "Don't worry. My machine won't run away. You go and invite your 
 friends." 
   
@@ -6392,19 +6392,19 @@ Tifa: "It feels like… It feels like you're going far away…"
 She looks at him) 
 Tifa: "You really, really are….. you… right?" 
  
-Red XIII: "……Long ago." "…When I was still very small. We were all around this flame…" 
+RedXIII: "……Long ago." "…When I was still very small. We were all around this flame…" 
  
-Red XIII: "No, never mind…" 
+RedXIII: "No, never mind…" 
 Cloud: "What happened?" 
-Red XIII: "It's about my parents." "When I talk about my mother, I am full of pride and joy…" "And that's fine. …But when I remember my father, my heart is 
+RedXIII: "It's about my parents." "When I talk about my mother, I am full of pride and joy…" "And that's fine. …But when I remember my father, my heart is 
 full of anger…" 
  
 Bugenhagen: "…You really can't forgive your father…?" 
-Red XIII: "Of course. He… left mother for dead." "When the Gi tribe attacked, he ran off by himself, leaving 
+RedXIII: "Of course. He… left mother for dead." "When the Gi tribe attacked, he ran off by himself, leaving 
 mother and the people of the Canyon!" 
  
 Bugenhagen: "…Come, Nanaki. There's something you should see." 
-Red XIII: "…?" 
+RedXIII: "…?" 
 Bugenhagen: "The place may be dangerous." 
  
 Bugenhagen: "Cloud. Will you and one other person come with us?" 
@@ -6421,7 +6421,7 @@ Bugenhagen: "Ho Ho Hoooo. Shall we go?"
 
  
 Bugenhagen: "All right. Come in, come in." 
-Red XIII: "Hey? Aren't you going with us, Grandpa?" 
+RedXIII: "Hey? Aren't you going with us, Grandpa?" 
  
 Bugenhagen: "What are you crazy? It's dangerous in there. I told you that!" "You want an old man like me should go first? I'll be right 
 behind you." 
@@ -6430,59 +6430,59 @@ they reach the bottom of a long tunnel. Traversing a cave, they reach a
 doorway, where Bugenhagen speaks.)
 Bugenhagen: "Ho Ho Hoooo." "Everyone here's a Ghost of the Gi tribe. Killed in a certain 
 battle." 
-Red XIII: "A certain battle?" 
+RedXIII: "A certain battle?" 
 Bugenhagen: "The vengeful spirits of the Gi didn't disappear, and couldn't 
 return to the Lifestream…" "We still have far to go. Ho Ho Hoooo."
  
 Bugenhagen: "As you can see, this cave leads to the back of Cosmo Canyon." "It was unfortunate that the Gi were larger than us. If they 
 attacked though here, we wouldn't have stood a chance." 
-Red XIII: "………." 
+RedXIII: "………." 
 Bugenhagen: "Let's move on." 
 
 Bugenhagen: "This warrior went through the cave all alone." "Fighting attackers one after another…" 
-Red XIII: "Grandpa…….. That warrior…." 
+RedXIII: "Grandpa…….. That warrior…." 
 Bugenhagen: "Ho Ho Hoooo… We're almost there." 
 (In the next cave, they find a huge, grotesque statue on the wall, 
 surrounded by lava.)
 
 Bugenhagen: "What is this…..?" 
-Red XIII: "Grandpa, is he…!?" 
+RedXIII: "Grandpa, is he…!?" 
 Bugenhagen: "After death… The ghosts of the Gi… Like stagnant air….." "This… can't be!!" 
  
 Bugenhagen: "Thank you, Cloud. Because of you, we survived." "Nanaki, you have grown strong too." 
-Red XIII: "…….Oh yeah?" 
+RedXIII: "…….Oh yeah?" 
 Bugenhagen: "Now I know that it wasn't a mistake bringing you here…" "Come, I have something I want to show you. Right over here." 
 (They all file into the next room. There is a huge pile of boulders 
-surrounded by fog in the center. Red XIII leaps onto it.)
-Red XIII: "This is…" 
+surrounded by fog in the center. RedXIII leaps onto it.)
+RedXIII: "This is…" 
 Bugenhagen: "…The warrior who fought against the Gi." "He kept them from taking even one step into Cosmo Canyon." 
  
 Bugenhagen: "But he was never able to return to town…"
  
 Bugenhagen: "Look, Nanaki. Look at your father, at the warrior, Seto." 
-(The camera pans upwards. We see a stone figure of one of Red XIII's tribe 
+(The camera pans upwards. We see a stone figure of one of RedXIII's tribe 
 atop a high cliff. The moon glows red in the sky. FMV sequence as the 
 camera swings around the figure.) 
-Red XIII: "…That… That's…. Seto?"
+RedXIII: "…That… That's…. Seto?"
 Bugenhagen: "Seto continued to fight the Gi tribe here. …To the protect 
 this Canyon." "Even after the Gi's poisonous arrows turned his body to 
 stone……" "Even after they all ran away… Seto, continued to protect us." "And he continues to protect us, even now." 
-Red XIII: "Even now…" 
+RedXIII: "Even now…" 
  
 Bugenhagen: "You thought that he was a coward and ran away. But he, alone, 
 risked his life to protect Cosmo Canyon." "That is your father, Seto." 
  
-Red XIII: "That….. that is Seto? …!? Did mother know?" 
+RedXIII: "That….. that is Seto? …!? Did mother know?" 
 Bugenhagen: "Ho Ho Hoooo… She knew. The two of them made me promise to keep 
 this cave shut." "They asked me to seal it myself and not to tell a soul." "Thay said we should forget about this cave." 
  
-Red XIII: "………" 
+RedXIII: "………" 
  
 Bugenhagen: "Cloud….. Would you mind leaving the two of us alone?" 
  
 Bugenhagen: "Nanaki, I want you to continue your journey with Cloud and the 
 others." 
-Red XIII: "Grandpa!?" 
+RedXIII: "Grandpa!?" 
 Bugenhagen: "Listen, Nanaki." 
  
 Bugenhagen: "Cloud says they are trying to save the planet." "Honestly, I don't think it can be done." "For even if they stop every reactor on the planet, it's only 
@@ -6495,28 +6495,28 @@ Bugenhagen: "I am too old to do anything about it…" "This year, I'll be 130. H
  
 Bugenhagen: "That is why, Nanaki, you must go with them! For my sake." 
  
-Red XIII: "Grandpa…" 
+RedXIII: "Grandpa…" 
  
 Bugenhagen: "I wanted to show you your real father before you left…" "I'm so glad that you came back while I was still alive to show 
 you." 
  
-Red XIII: "Grandpa… don't talk like that. I don't want to think of 
+RedXIII: "Grandpa… don't talk like that. I don't want to think of 
 life… without you….." 
  
 Bugenhagen: "Ho Ho Hoooo. Well, I've had a long life." 
  
-Red XIII: "Grandpa! You must live!" "I'll see to it." "I'll see to what's happening to the planet. And I'll come back 
+RedXIII: "Grandpa! You must live!" "I'll see to it." "I'll see to what's happening to the planet. And I'll come back 
 to tell you." 
  
 Bugenhagen: "Nanaki…" 
  
-Red XIII: "I am Nanaki of Cosmo Canyon! The son of the warrior, Seto!" "I'll come back a warrior true to that noble name! So please, 
+RedXIII: "I am Nanaki of Cosmo Canyon! The son of the warrior, Seto!" "I'll come back a warrior true to that noble name! So please, 
 Grandpa…" 
-(Red XIII looks up. The camera pans up; small drops of water are falling 
+(RedXIII looks up. The camera pans up; small drops of water are falling 
 from above.) 
 Bugenhagen: "That's… Seto's….. Seto….."
-Red XIII: "Seto… Fa… Father…." 
-(Red XIII leaps to the highest point on the rock structure and howls up to 
+RedXIII: "Seto… Fa… Father…." 
+(RedXIII leaps to the highest point on the rock structure and howls up to 
 the moon, and Seto. The camera pans up to show Seto, tears falling from 
 stone eyes.)
 :    
@@ -6528,19 +6528,19 @@ Red Truth
 Barret: "They said they finished fixin' the buggy." 
  
 Cloud: "Shall we get giong?" 
-Aerith: "So this is it, Red XIII…" 
+Aerith: "So this is it, RedXIII…" 
  
 Barret: "That's just the way it goes. …You came in handy at times…" 
 (Cloud chooses his party and everyone leaves. On the way out of Cosmo 
-Canyon, Red XIII comes running.) 
-Red XIII: "Wait for me! I'm coming too!" 
+Canyon, RedXIII comes running.) 
+RedXIII: "Wait for me! I'm coming too!" 
 Cloud: "Mmm?" 
  
 Bugenhagen: "Cloud. Please look after Nanaki." 
 Cloud: "What happened?" 
-Red XIII: "I think I grew up a little. That's
+RedXIII: "I think I grew up a little. That's
 what happened!" 
-(Red XIII runs off. Cloud and the others leave Cosmo Canyon, board the 
+(RedXIII runs off. Cloud and the others leave Cosmo Canyon, board the 
 buggy, and head west, towards Nibelheim.) 
    
 Nibelheim Revisited The Black Cloak -
@@ -7063,9 +7063,9 @@ Cloud: "The Black Materia…"
 Cait-Sith: "I heard from Dio that a man in a Black Cape was lookin' for the 
 Black Materia." 
 Tifa: "I don't even know what the Black Cape is…" "How many men with Black Capes and number tattoos are there?" 
-Red XIII: "…you know, of course… My tattoo is number 13." 
+RedXIII: "…you know, of course… My tattoo is number 13." 
 Cloud: "How did you get that tattoo?" 
-Red XIII: "…Hojo put it on me. Everything else is just war scars, but the 
+RedXIII: "…Hojo put it on me. Everything else is just war scars, but the 
 number was done by Hojo." 
 Tifa: "So there are at least 13!?" 
 Aerith: "…You know……" "I think Hojo did something to those men in the Black Capes." "But I don't know what it has to do with Sephiroth though…" "That's why I think we should just go after Sephiroth himself." 
@@ -7079,17 +7079,17 @@ Cait-Sith: "What was that, all of a sudden!?" "Is that all? How 'bout the Black 
 Cloud: "You wouldn't understand even if I told you." 
 Barret: "Now all we gotta do is take action! We're startin' tomorrow!!" 
  
-Red XIII: "Cloud…" 
+RedXIII: "Cloud…" 
  
-Red XIII: "I'm number 13. Am I going to go mad too?" 
+RedXIII: "I'm number 13. Am I going to go mad too?" 
  
 Tifa: "I don't know what Hojo did to you, but you've been all right so 
 far, right?" 
-Red XIII: "But…" 
+RedXIII: "But…" 
 Tifa: "Be strong." 
  
-Red XIII: "But, I…" 
-Tifa: "Stop it, Red XIII! Be strong!" 
+RedXIII: "But, I…" 
+Tifa: "Stop it, RedXIII! Be strong!" 
 Cloud: "Tifa?" 
 Tifa: "You're not the only one who's worried!" 
 Cait-Sith: "I don't know what's goin' on, but we're in a bad situation…" 
@@ -8752,7 +8752,7 @@ end of it."
 Tifa: "We'd better not take the Black Materia any further. Why don't 
 you give it to someone else to hold on to?" 
  
-Red XIII: "You want me to take the Black Materia? ……all right, I 
+RedXIII: "You want me to take the Black Materia? ……all right, I 
 understand." 
 Cloud: "Don't give it to ANYONE. I'm counting on you." 
  
@@ -8973,24 +8973,24 @@ Rufus: "You keep a lot of things to yourself."
   
    
 Sephiroth's Ruse 
-(The  fades in again and we are at the land bridge. Red XIII, Barret, 
+(The  fades in again and we are at the land bridge. RedXIII, Barret, 
 and Cait-Sith are waiting there. The green wind below is rushing past at 
 insane speeds.) 
-Red XIII: "I wonder how Cloud and the others are…" "It's hard to believe… such a small piece of materia is able to 
+RedXIII: "I wonder how Cloud and the others are…" "It's hard to believe… such a small piece of materia is able to 
 destroy the Planet…" 
 (The land bridge, the others, everything vanishes in a blink of black. Red 
 XIII is left hovering over the winds below. He looks around.) 
-Red XIII: "What the!?"
+RedXIII: "What the!?"
  
-Red XIII: "Is everyone all right?" 
+RedXIII: "Is everyone all right?" 
  
-Red XIII: "What's going on?" "Where am I!? Don't leave me alone!" 
+RedXIII: "What's going on?" "Where am I!? Don't leave me alone!" 
  
-"Red XIII, you're here! I'm so glad!!" 
+"RedXIII, you're here! I'm so glad!!" 
  
-Red XIII: "Tifa!!" 
+RedXIII: "Tifa!!" 
  
-Red XIII: "Something is strange… Why was it dark all of a sudden and 
+RedXIII: "Something is strange… Why was it dark all of a sudden and 
 where is everybody?" 
 "Everyone's waiting! Cloud's in trouble!" 
  
@@ -8998,7 +8998,7 @@ where is everybody?"
  
 "Over there!" 
  
-Red XIII: "R, right!" "I'm not sure I understand… but I'll go if you want me to." 
+RedXIII: "R, right!" "I'm not sure I understand… but I'll go if you want me to." 
  
 "……hee hee hee… And remember…" 
  
@@ -9025,21 +9025,21 @@ Cloud: "This is where the Reunion is happening. Where everything begins
 and ends." 
  
 Tifa: "Cloud!" 
-(They take no notice. Red XIII comes
+(They take no notice. RedXIII comes
 running in.) 
-Red XIII: "I'm here to help you, Cloud!" 
+RedXIII: "I'm here to help you, Cloud!" 
 (Cloud stands still for a long moment, then holds his head. He is almost 
-crying. He takes a few steps toward Red XIII, then stops again. Eventually 
-he goes all the way over to Red XIII.) 
-Cloud: "Thanks… Red XIII. Where's the Black Materia?" 
+crying. He takes a few steps toward RedXIII, then stops again. Eventually 
+he goes all the way over to RedXIII.) 
+Cloud: "Thanks… RedXIII. Where's the Black Materia?" 
 Tifa: "Cloud!" 
-Red XIII: "It's safe. I'm holding onto it." 
+RedXIII: "It's safe. I'm holding onto it." 
  
 Cloud: "I'll take it from here. Give me the… Black Materia." 
 Tifa: "You can't hear my voice?" 
-Red XIII: "Are you all right, Cloud?" 
+RedXIII: "Are you all right, Cloud?" 
  
-Red XIII: "Then… here you go. I was a little apprehensive holding this 
+RedXIII: "Then… here you go. I was a little apprehensive holding this 
 thing." 
 Tifa: "No, don't! Please… stop, Cloud!" 
  
@@ -9139,7 +9139,7 @@ Rufus: "I want you all to come with me. There is still much more I want
 to hear." 
 (The camera pans up to show Cloud preparing to hand the Black Materia to 
 Sephiroth.) 
-Red XIII: "Cloud, NO! Stop! Please!" 
+RedXIII: "Cloud, NO! Stop! Please!" 
 (Cloud holds his head in his hands for a moment. Then he begins to spin in 
 midair, rising and falling, like a marionette.) 
 Tifa: "Cloud-----!!"
@@ -9532,7 +9532,7 @@ Cid: "Welcome to my airship the Highwind!"
  
 Cid: "What's wrong!? You should be more excited than that!" 
  
-Red XIII: "Cid……" 
+RedXIII: "Cid……" 
  
 Cid: "Yeah……" 
  
@@ -9545,7 +9545,7 @@ up!"
  
 Cid: "Hey you! What the hell are you doin'!?" 
 "All we have to do is just pilot. They don't have to talk to us." 
-Red XIII: "Do you think we aren't strong enough without Cloud?" "Do you think we can't save the Planet alone?" 
+RedXIII: "Do you think we aren't strong enough without Cloud?" "Do you think we can't save the Planet alone?" 
  
 Tifa: "Meteor is coming, and Weapon is on the rampage……" "At a time like this, I don't know what I'm supposed to do……" 
  
@@ -9559,7 +9559,7 @@ Tifa: "He'd say, 'Everything's under control, Tifa.'"
 Barret: "Tifa! When'd you become such a wimp!" 
 Tifa: "I'm sorry Barret." "I'm kind of shocked myself. I'm so depressed." 
  
-Red XIII: "And Tifa…… the reason why we all thought it was Cloud was 
+RedXIII: "And Tifa…… the reason why we all thought it was Cloud was 
 because……" 
  
 Tifa: "……I know." "That's why I want to make sure. That's why I have to see him 
@@ -9576,13 +9576,13 @@ Tifa: "……I'll be able to see him someday."
 Cid: "If we can find out where he is, the Highwind'll get us there in 
 no time." 
  
-Red XIII: "……Maybe" "Cloud is still stuck deep in the North Crater, where the ground 
+RedXIII: "……Maybe" "Cloud is still stuck deep in the North Crater, where the ground 
 cracked and swallowed him up……" "Buried in the depths of the underground……" 
 Tifa: "Deep within the earth… are you talking about the Lifestream?" 
-Red XIII: "The Lifestream sometimes gushes out to the surface from cracks 
+RedXIII: "The Lifestream sometimes gushes out to the surface from cracks 
 in the ocean floor." "I heard that such a place exists." 
  
-Red XIII: "Maybe, just maybe Cloud's……"  
+RedXIII: "Maybe, just maybe Cloud's……"  
 
 Pilot in training : "Waaaah! Captain Cid!" 
 Cid: "Tifa, sorry, but I've gotta show this moron how to land the 
@@ -9852,7 +9852,7 @@ Scarlet: "Don't worry about that!" "More importantly, we've got to collect Huge 
 Heidegger: "We've already collected materia from Nibelheim." "All that's left is "Corel" and "Fort Condor"." "I've already dispatched troops to Corel." "Ghaa haah hah hah!" 
  
 Barret: "Corel!" "What else can they do to Corel!?" 
-Red XIII: "And the Huge Materia……" "You mean the Huge Materia, don't you? I've heard about it." "When our small materia hears the larger one, something should 
+RedXIII: "And the Huge Materia……" "You mean the Huge Materia, don't you? I've heard about it." "When our small materia hears the larger one, something should 
 happen." "I'm certain of it." "That's why we're using the power of materia in our fight……" 
 Barret: "Can't let Shinra get a hold of the Huge Materia!" "Besides, when Cloud gets back, I wanna show him his Huge Materia. 
 He's gonna be shocked." 
@@ -9897,7 +9897,7 @@ Captain……"
 "Good day, Captain!" 
 Cait-Sith: "Hmmn, the Huge Materia is at Corel, Fort Condor……" "I'm sure there was another place that had it. Where was 
 that……?" 
-Red XIII: "Cid." "Let's visit Cloud and Tifa from time to time." 
+RedXIII: "Cid." "Let's visit Cloud and Tifa from time to time." 
 Barret: "Yo, Mr. Leader! Get your pilot ass up here!" 
  
 People in North Corel 
@@ -9921,14 +9921,14 @@ accost them.)
  
 Cid: "Guess we're safe for now…!" 
  
-Red XIII: "Ohh!" 
+RedXIII: "Ohh!" 
 Barret: "Da---mn!" 
 (They scatter to avoid the train as it rumbles out of the reactor towards 
 Corel.) 
 Cid: "Looks like they're takin' off with the Huge Materia in that 
 train!" 
 Barret: "NO! You damn boneheads!" 
-Red XIII: "Did the Shinra beat us!?" 
+RedXIII: "Did the Shinra beat us!?" 
 Cid: "Hey, do you know who I am?" "I'm Cid that's who the hell I am! Now just let me handle it!"
 (They follow Cid as he runs into the Reactor. We hear another train 
 whistle.) 
@@ -9956,13 +9956,13 @@ Cid: "All right- Just hand over the Huge Materia!"
  
 Cid: "You got guts comin' after me!" "I'll never forget you!" 
 Barret: "Got no time for that now!" 
-Red XIII: "We got it going, but what about the brakes?" 
+RedXIII: "We got it going, but what about the brakes?" 
 Cid: "I KNOW, already! Just shut up and keep quiet! If we keep this 
 up, we'll crash right into North Corel!" "Let's see… if we alternately use the levers to accelerate…" "It should brake if we move the levers up or down simultaneously!" 
 (Cid, controlled by the PLAYER, moves both levers up. The train gains 
 speed.)
 Barret: "Hey, it's not working!" 
-Red XIII: "We're gaining speed!" 
+RedXIII: "We're gaining speed!" 
 Cid: "^%#@! The other way!? Just watch, this time, I'll…" 
  
 Barret: "Hey… HEY HEY!" 
@@ -10024,7 +10024,7 @@ up here." "Any minute now, this will be a battlefield against Shinra. You'd
 better get down before you get involved." 
 Cid: "A battlefield, we can't overlook that." 
 Barret: "Shinra? The hell those jackasses doing here?" 
-Red XIII: "Shinra again." 
+RedXIII: "Shinra again." 
 "It appears you have a problem with Shinra, too. After all, you 
 climbed up here." "Why not listen to what I have to say for a moment?" 
 Cid: "All right, talk on!" 
@@ -10041,7 +10041,7 @@ fighting alongside of us…" "What do you think? You want to join us in our figh
 Cid: "If you go that far, what can I say. Well, we'll be able to do 
 something if you leave it to us." 
 Barret: "Hey! We'll come to the rescue." 
-Red XIII: "Got it. I'm gonna lend a hand,
+RedXIII: "Got it. I'm gonna lend a hand,
 too." 
  
 People in Fort Condor 
@@ -10168,13 +10168,13 @@ Cid: "You &^$#&$#! You tryin' to escape?"
 The camera pans back down to the party.) 
 Barret: "Damn, man. Just a little bit more an' I wouldda smashed 
 him……" 
-Red XIII: "It looks like the Lifestream has settled as well." 
+RedXIII: "It looks like the Lifestream has settled as well." 
  
 Cid: "Damn, you gotta be kiddin'……!!" 
 (The ground begins to quake more violently as the screen flashes more 
 chaotically than before.) 
 Cid: "Th, this's bad……! The main stream is kickin' up!!" "Somethin' way bigger that that last one is on its way!!" "No good!! Get outta here……!!" 
-Red XIII: "But what about Tifa and Cloud!?" 
+RedXIII: "But what about Tifa and Cloud!?" 
 Cid: "Goddammit!!" "You don't have time to worry about anyone other than yourself! 
 You don't know when that stream'll blow……"
  
@@ -10766,7 +10766,7 @@ There Ain't No Gettin' Off
 (The  fades in. We are in the operation room on the Highwind. The 
 party is seated around the table; Cloud stands at the head of it.) 
 Cloud: "Everyone…… I'm sorry. I don't know what to say……" 
-Red XIII: "Don't say anything, Cloud. All you've been doing is apologizing." 
+RedXIII: "Don't say anything, Cloud. All you've been doing is apologizing." 
  
 Cloud: "I never was in SOLDIER." "I made up the stories about what happened to me five years ago, 
 about being in SOLDIER." "I left my village looking for glory, but never made it in to 
@@ -10796,7 +10796,7 @@ thing."
 Barret: "Good!! Then you're gonna keep fightin' to save the planet!?" 
 Cloud: "It's like you always told me, Barret." 
 Barret: "Oh, uh, you mean that!" 
-Red XIII: "What? I don't understand!" 
+RedXIII: "What? I don't understand!" 
  
 Cloud: "There ain't no gettin' offa this train we on!" 
 Tifa: "There ain't no gettin' offa this train we on!" 
@@ -10820,7 +10820,7 @@ People on the Highwind
 Barret: "C'mon, Cloud! Don't #&$* around!" "We're goin' to Junon, boyeee!!" 
 Cait-Sith: "This's kinda on the spur of the moment, but shouldn't we oughta 
 get to Junon!?" 
-Red XIII: "I'm glad you're back with us!" 
+RedXIII: "I'm glad you're back with us!" 
 Tifa: "Let's do our best, Cloud!" 
 Cid: "I know how tough it is bein' a leader, because I've been one." "I always forget who has what materia." 
  
@@ -11350,7 +11350,7 @@ frustration.)
 The Cry Of the Planet That Someone is Us 
 (The  fades in. The entire party is on the bridge of the Highwind; 
 Barret, Cloud and Tifa stare out the window at the clouds passing by below; 
-Cid and Cait-Sith face their backs; Red XIII looks in another direction, 
+Cid and Cait-Sith face their backs; RedXIII looks in another direction, 
 distant.) 
 Cloud: Rufus and the others plan was a failure…" 
 (Cloud walks closer to the window, watching the clouds, shaking his head. 
@@ -11360,7 +11360,7 @@ Barret: "What a bust… But I kinda hoped it'd work."
 Cait-Sith: "We been botherin' them as much as we can…" "But there ain't no other way… Wonder if we've been wrong all 
 this time?" 
  
-Red XIII: "Makes you worry, doesn't it?" 
+RedXIII: "Makes you worry, doesn't it?" 
  
 Tifa: "Don't worry! Think!" 
  
@@ -11378,7 +11378,7 @@ change a thing."
 Cid: "Maybe you're right." 
  
 Cid: "But I came up with something different." 
-(He turns to face Cait-Sith and Red XIII. Cloud, Barret, and Tifa gather 
+(He turns to face Cait-Sith and RedXIII. Cloud, Barret, and Tifa gather 
 around him.) 
 Cid: "I always thought this planet was so huge." "But lookin' at it from space, I realized it's so small." 
  
@@ -11396,14 +11396,14 @@ Cid: "Ya follow me? That someone is us."
  
 Tifa: "Cid… that's beautiful." 
 Barret: "Yo! Cid! You even got to me!" "So, now what? How're we gonna protect the planet from Meteor?" 
-(Cid turns to face Cait-Sith, then Red XIII, then Tifa. He scratches his 
+(Cid turns to face Cait-Sith, then RedXIII, then Tifa. He scratches his 
 head. He sits down on the floor, leaning against a control panel.) 
 Cid: "………………I'm still thinkin' about that." 
  
-Red XIII: "Huh!?" 
+RedXIII: "Huh!?" 
 (He comes bounding back up the steps to the others. They all turn to face 
 him.) 
-Red XIII: "Did you…… hear something?" 
+RedXIII: "Did you…… hear something?" 
  
 Tifa: "The planet's scream…… or Meteor…? Is it this planet?" 
  
@@ -11411,7 +11411,7 @@ Cloud: "Hey, how do we know that this is really the planet's scream?"
 Tifa: "Did you forget?" "Bugenhagen told us." 
  
 Cloud: "Bugenhagen…" 
-Red XIII: "Let's go see Grandfather! To Cosmo Canyon!" "I'm sure he'll be able to tell us something that will be helpful!" 
+RedXIII: "Let's go see Grandfather! To Cosmo Canyon!" "I'm sure he'll be able to tell us something that will be helpful!" 
    
 Remembrance 
 People on the Highwind 
@@ -11422,7 +11422,7 @@ machines."
 Tifa: "Did Bugenhagen…… tell you anything?" 
 Cid: "Maybe it's just me, but has this ship been remodeled without me 
 knowin' it?" "All these switches and levers. They're kinda gettin' to me." 
-Red XIII: "Hurry, hurry! We must go meet Grandfather!" 
+RedXIII: "Hurry, hurry! We must go meet Grandfather!" 
 (Cloud pilots the Highwind to Cosmo Canyon. He meets the doorman at the 
 gate.) 
 "Oh, it's you. This is terrible. The color of that unlucky star…" "The children are all so scared that they won't even go outside." "I'd rather not see it either…" 
@@ -11443,7 +11443,7 @@ Bugenhagen: "Do you see it? What is it that you are searching for?"
 (The  fades back in; we are at Bugenhagen's observatory, now, the 
 entire party is present. Cloud and Tifa stand on either side of 
 Bugenhagen; Barret stands in the back; Cait-Sith stands behind Cloud, 
-Red XIII is in one corner, and Cid is leaned casually against a wall, 
+RedXIII is in one corner, and Cid is leaned casually against a wall, 
 smoking a cigarette.) 
 Cait-Sith: "Nope. Not a thing. Naw. Can't come up with a thing." 
  
@@ -11452,12 +11452,12 @@ That's not it…" "How would you say it… Aerith was right there all along. Rig
 by our side." "She was so close, we couldn't see her. What Aerith did… The 
 words she left behind…" 
 Tifa: "That reminds me… I was the same." 
-Red XIII: "As was I." 
+RedXIII: "As was I." 
 Barret: "Me too…" 
 Cloud: "She said that she was the only one who could stop Sephiroth's 
 Meteor." 
 Tifa: "But Aerith is gone." 
-Red XIII: "Is it impossible for us to carry on… what Aerith tried to 
+RedXIII: "Is it impossible for us to carry on… what Aerith tried to 
 accomplish?" 
 Barret: "We ain't no Ancients, if that's what ya mean." 
  
@@ -11465,13 +11465,13 @@ Cid: "What, did that girl go off to that place?"
 Cloud: "That's it!!" 
 Cid: "What's it?" 
 Cloud: "We don't know about it." "What did Aerith know?" "Why did she face Sephiroth without running away?" 
-Red XIII: "I see… She returned there once again, correct?" 
+RedXIII: "I see… She returned there once again, correct?" 
 Bugenhagen: "Hmmm. Perhaps I'll have you take me there." 
-Red XIII: "You're going too?" 
+RedXIII: "You're going too?" 
 Bugenhagen: "What's so surprising about that…?" "Even I want to get out from time to time and see the outside 
 world. I wonder what did it? I haven't felt like this in ages." 
  
-Red XIII: "It must be the planet. The planet is calling you!" 
+RedXIII: "It must be the planet. The planet is calling you!" 
 Cid: "Yeah, hoo boy, the planet calling… right." 
  
 Bugenhagen: "Ho Ho Hoooo. Then let's go." 
@@ -11509,7 +11509,7 @@ Cloud: "I'm sure she wanted to give her life for the planet…"
 Tifa: "Really? I wonder? I don't think that's it at all." "I think she didn't think she would die at all, but that she 
 planned on coming back all along." "She always used to talk about the 'Next time'." "She talked about the future more that any of us…" 
 Cid: "Aerith…?" "I wanted to give her a ride in the Highwind……" 
-Red XIII: "Aerith used to pat me on the nose sometimes." "I used to hate being treated like a child like that, but I also 
+RedXIII: "Aerith used to pat me on the nose sometimes." "I used to hate being treated like a child like that, but I also 
 liked the attention." "I wanted to apologize to her for what I did when we first met." 
 (Cloud pilots the Highwind to the City of the Ancients. He takes the same 
 path he took when he first arrived on his search for Aerith, heading west, 
@@ -11818,7 +11818,7 @@ which bullets of energy begin to shoot across the ocean in the direction
 of the Sister Ray. The  changes to the deck of the Highwind. Everyone 
 is gathered there.) 
 Tifa: "Which direction is it going to attack from?" 
-Red XIII: "Midgar!" 
+RedXIII: "Midgar!" 
 (They all run to the railing and look out at Midgar. All except Cait-Sith. 
 He stands facing the rudder, away from the group.) 
 Barret: "Marlene!!" 
@@ -11831,7 +11831,7 @@ plainly shown, torn open. It sparkles with violet energy. The Weapon hits
 the ground, bounces once, then comes to a stop, dead. The  changes 
 back to the Highwind.) 
 Barret: "Damn…" 
-Red XIII: "It went right through Weapon………" 
+RedXIII: "It went right through Weapon………" 
  
 Cloud: "I see! They're after Sephiroth! The crater on the Northern 
 boundary!" 
@@ -11995,7 +11995,7 @@ waiting there.)
 Barret: "Sounds strange comin' from me…"
 "But it feels like home bein' back in
 Midgar." "Kinda makes me sick…" 
-Red XIII: "I have an old score to settle with Hojo, so let's hurry and go!" 
+RedXIII: "I have an old score to settle with Hojo, so let's hurry and go!" 
 (Cait-Sith is dancing with excitement next to a storm door at the end of 
 the alley. Cloud speaks to him and the music fades.) 
 Cait-Sith: "This is where we go in." 
@@ -12138,11 +12138,11 @@ Cait-Sith: "Shinra's…… finished."
  
 Cloud: "Meteor's gonna fall in about……" 
  
-Red XIII: "Seven more days. That's what Grandfather said." 
+RedXIII: "Seven more days. That's what Grandfather said." 
  
-Cloud: "Red XIII………" "You want to see everyone in Cosmo Canyon again?" 
+Cloud: "RedXIII………" "You want to see everyone in Cosmo Canyon again?" 
  
-Red XIII: "………yes." 
+RedXIII: "………yes." 
 (He turns back to him. Cloud turns to Barret, who is gazing out at the 
 clouds below.) 
 Cloud: "You want to see Marlene, right?" 
@@ -12284,13 +12284,13 @@ Cloud: "Barret! Cid!"
  
 Barret: "O, oh…… is that okay with you?" 
  
-Cloud: "Red XIII!" 
+Cloud: "RedXIII!" 
  
 Tifa: "Why didn't you tell me!?" 
  
-Red XIII: "But, you know, Cid." 
+RedXIII: "But, you know, Cid." 
  
-Cid: "Hey, Red XIII." "If you butt in now, you never know what they'll say later……" 
+Cid: "Hey, RedXIII." "If you butt in now, you never know what they'll say later……" 
 Tifa: "……Were you watching?" 
 
 Cloud: "Vincent!" 
@@ -12311,7 +12311,7 @@ Cait-Sith: "I know I have a stuffed animal body, but I'll work really hard!"
  
 Barret: "I guess that's everyone." 
  
-Red XIII: "No, Yuffie's missing." 
+RedXIII: "No, Yuffie's missing." 
 Barret: "She ain't gonna show up." "'Least this time she didn't steal our materia. Guess we gotta 
 be thankful for that."
 (Yuffie suddenly drops down from the ceiling, lands in the middle of the 
@@ -12336,7 +12336,7 @@ Cloud: "Thanks everyone."
 Barret: "We didn't come back for your spikey headed ass!" "We came back for Marlene. Guess it's jes' my…… whatcha call, 
 feelings or somethin'." "I, uh, I ain't got no words now……" 
  
-Red XIII: "……Although she's not here, she left us a window of 
+RedXIII: "……Although she's not here, she left us a window of 
 opportunity…"
  
 Cid: "We can't let it go like this." 
@@ -12411,10 +12411,10 @@ will belong to me." "It's all in there. Read it carefully and then sign it, all
 right?" 
  
 Cloud: "Forget it, Yuffie. I'm not even gonna read it." "Whenever I read, I get airsick." 
-Yuffie: "Oh yeah……?" "I'm the same way, so I can't say too much……" "Damn! My plan failed. Let's pick on Red XIII later to let off 
+Yuffie: "Oh yeah……?" "I'm the same way, so I can't say too much……" "Damn! My plan failed. Let's pick on RedXIII later to let off 
 steam." 
 Cait-Sith: "But I ain't gonna forget, no matter what happens." "Not about this here trip, or them folks- none of it!" 
-Red XIII: "I am Nanaki, son of Seto… I am afraid of nothing…" "It's all right, all right. I'm Nanaki, the son of brave Seto… 
+RedXIII: "I am Nanaki, son of Seto… I am afraid of nothing…" "It's all right, all right. I'm Nanaki, the son of brave Seto… 
 I'm not afraid of Sephiroth…" 
 Vincent: "Cloud…… take the ship to the Northern Cave." "The time for flying is now past." "Our battlefield is now beneath the earth…" "The gate to tomorrow is not the light of heaven, but the 
 darkness of the depths of the earth…….." 
@@ -12473,7 +12473,7 @@ Cloud: "The road splits in two. We'll split into two groups."
 Cid: "Which you gonna choose, Cloud?" 
 Barret: "All right. Then I'll go…" 
 Tifa: "Then I'm going…" 
-Red XIII: "All right, then I'll go…" 
+RedXIII: "All right, then I'll go…" 
 Yuffie: "I'm going……" 
 Cait-Sith: "Then I'll be heading…" 
 Vincent: "Then, I will be going……" 
@@ -12483,7 +12483,7 @@ Cloud: "Now don't any of you die on me. ……" "Gotta get through to Sephiroth!
 Vincent: "It's all over now. With this…" 
 Yuffie: "Oh man… 'Materia Hunter Yuffie' sounds like the last chapter 
 of 'Materia Forever.'" 
-Red XIII: "All life on this planet, indeed the very life of this planet is 
+RedXIII: "All life on this planet, indeed the very life of this planet is 
 in our hands…" 
 Cait-Sith: "I'm so happy to have met you all, really! …sniff…" 
 Barret: "Well…… Looks like this is our last big job!" 
@@ -12498,7 +12498,7 @@ Cid: "Let's just get this over with!"
 Tifa: "This is it." 
 Barret: "Here, Cloud." 
  
-Red XIII: "Cloud, I found this…" 
+RedXIII: "Cloud, I found this…" 
  
 Cait-Sith: "Hey Cloud, I found this." 
  
@@ -12512,7 +12512,7 @@ Yuffie: "Oh, all right." "Here, Cloud."
 Yuffie: "But I'm the one who found it, so you better give it back to me 
 when you're done with it!" 
 Barret: "Awright, this's the last dance!" 
-Red XIII: "We finally made it here." 
+RedXIII: "We finally made it here." 
 Cait-Sith: "Well, shall we get goin'?" 
 Vincent: "Hmm… Being with you all is not so bad." 
 
@@ -12523,7 +12523,7 @@ Cloud: "Move out!!"
  
 Barret: "What?" 
  
-Red XIII: "Look at the number…" 
+RedXIII: "Look at the number…" 
  
 Cid: "%#@^! They're comin' out in force!" 
 Barret: "Cloud! You go first!" 
@@ -12539,7 +12539,7 @@ Yuffie: "Heh heh, I'm fine with that." It's probably more fun than
 fighting Sephiroth down there.
 Vincent: "Hmm, this might be fun to pass time." 
  
-Red XIII: "They're coming! They're already on the floor next to us!" 
+RedXIII: "They're coming! They're already on the floor next to us!" 
  
 Barret: "Cloud! Hurry up and make up your mind!" 
  
@@ -12568,7 +12568,7 @@ Cloud: "…Sephiroth!!"
 Barret: "Ugh…! Is this…… the true power of Sephiroth?" 
 Cid: "My… my body… I can't control my body…… Uuugh!?" 
 
-Red XIII: "My front legs…… my hind legs…… my tail's about to tear 
+RedXIII: "My front legs…… my hind legs…… my tail's about to tear 
 off!!" 
 Cait-Sith: "This is definitely not good…… He's way outta our league…" 
 Yuffie: "I, I don't know if I can… go on…" 

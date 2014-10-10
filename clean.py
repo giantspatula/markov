@@ -74,8 +74,8 @@ def format_for_sentence_split(corpus):
 
     #super fucking jank
 
-    corpus = corpus.replace("\n", " ").replace(":", " ").replace("!", ".").replace("?", ".").replace("\r", " ").replace("\t", " ").replace("  ", " ").replace ("'", "\u2018" )
-    valid_punctuation = string.letters + "." + " " + "," + ";" + "\'" + "-" + u"\u2018"
+    corpus = corpus.replace("\n", " ").replace(":", " ").replace("!", ".").replace("?", ".").replace("\r", " ").replace("\t", " ").replace("  ", " ")
+    valid_punctuation = string.letters + "." + " " + "," + ";" + "\'" + "-"
     print valid_punctuation
     clean_text = ""
     for char in corpus:

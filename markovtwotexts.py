@@ -98,11 +98,11 @@ def main():
 
     split_character = ""
 
-    if len(sys.argv) == 3:
-        program, file_name, split_arg = args
+    if len(sys.argv) == 4:
+        program, file_name1, file_name2, split_arg = args
         split_character = str(split_arg)
-    elif len(sys.argv) == 2:
-        program, file_name = args
+    elif len(sys.argv) == 3:
+        program, file_name1, file_name2 = args
         split_character = "."
     else:
         print "correct usage: markov_by_sent.py, file_name, [split_character]"
@@ -112,20 +112,25 @@ def main():
     while True:
         if split_character == ".":
             # print "Splitting file by", split_character
-            clean_file = make_clean_sentence_file(file_name)
+            clean_file1 = make_clean_sentence_file(file_name1)
+            clean_file2 = make_clean_sentence_file(file_name2)
             break
         elif split_character == "newline":
             # print "Splitting file by", split_character
-            clean_file = make_clean_script_file(file_name)
+            clean_file1 = make_clean_script_file(file_name1)
+            clean_file2 = make_clean_script_file(file_name2)
             split_character = "\n"
             script_formatting = True
             break
         else:
            raise TypeError ("Illegal split character")
 
-    file_string = open(clean_file).read()
+    file_string1 = open(clean_file1).read()
+    file_string2 = open(clean_file2).read()
 
-    chain_dict = make_chains(file_string, split_character)
+
+    chain_dict1 = make_chains(file_string1, split_character)
+    chain_dict2 = make_chains(file_string2, split_character)
 
     total_len = 0
     twitter_list = []
@@ -134,14 +139,17 @@ def main():
     x = random.randrange(1,5)
 
     while total_len < 140:
-        random_text = make_text(chain_dict, script_formatting, split_character)
+        dictionary = random.choice([chain_dict1, chain_dict2])
+        random_text = make_text(dictionary, script_formatting, split_character)
         loop = loop + 1
         if total_len + len(random_text) <= 140:
             twitter_list.append(random_text)
             total_len += len(random_text)
         if len(twitter_list) == x:
+            # print "Broke on num sentences"
             break
         if loop == 1000:
+            # print "Broke on loop"
             break
 
 
